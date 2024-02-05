@@ -1,0 +1,46 @@
+
+body{
+    width: 100%;
+    background-color: pink;
+}
+h1{
+    color: Black;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+p{
+    color: Black;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right:auto ;
+    width: 50%;
+}
+
+.center { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:  50px;
+}
+
+#yesbutton {
+
+    display: block;
+    width: 20%;
+    position: absolute;
+   
+  }
+
+#movingbutton {
+
+    display: block;
+    width: 20%;
+    position: absolute ;
+}
